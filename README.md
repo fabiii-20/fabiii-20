@@ -24,7 +24,7 @@ A Software Engineer with a strong industry background in constructing web servic
 <img align="left" style="margin-right:15px;" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" style="margin-right:15px;" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" style="margin-right:15px;" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" style="margin-right:15px;" alt="NextJS" width="26px" src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" />
+<img align="left" style="margin-right:15px;" alt="NextJS" width="26px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" />
 <img align="left" style="margin-right:15px;" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" style="margin-right:15px;" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img  align="left" style="margin-right:15px;" alt="Prisma" width="26px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" />
